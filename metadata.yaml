@@ -1,10 +1,16 @@
 _repo: Christmastide-Its-History-Festivities-and-Carols_47956
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47956-h/images/cover.jpg
 creator:
   author:
     agent_name: Sandys, William
     gutenberg_agent_id: '44545'
     url: http://www.gutenberg.org/2009/agents/44545
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47956#Christmastide-Its-History-Festivities-and-Carols
 gutenberg_issued: '2015-01-13'
 gutenberg_type: Text
 identifiers:
